@@ -1,0 +1,42 @@
+
+body{ 
+    background-color: antiquewhite;
+    font-family: sans-serif;
+}
+
+#root{
+    text-align: center;
+    background-color: rgb(243, 196, 234);
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px;
+}
+
+#root h1{
+    color: brown;
+    text-decoration: underline;
+    
+}
+#root p{
+    color: rgb(7, 50, 5);
+    
+    
+}
+
+#root div button {
+    background-color: black;
+    color: aliceblue;
+    display: inline-block;
+    margin: 3px;
+    font-size: large;
+}
+
+#ball{
+    color:black;
+    display: inline-block;
+    margin: 3px;
+    font-size: large;
+}
+#maincount{
+    display: inline-table;
+}
